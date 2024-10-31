@@ -4,13 +4,17 @@ import { AppModule } from './app.module';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
-
+  
   app.enableCors({
-    origin: ['http://localhost:5173', 'https://rapid-limit-5419.on.fleek.co/'], // Cambia esto a la URL de tu frontend
-    methods: 'GET,HEAD,POST,PUT,DELETE,OPTIONS',
-    credentials: true, // Permite el envío de cookies si es necesario
-    allowedHeaders: 'Content-Type, Accept, Authorization'
-  });
+  origin: (origin, callback) => {
+    callback(null, true); // Permite cualquier dominio
+  },
+  methods: 'GET,HEAD,POST,PUT,DELETE,OPTIONS',
+  credentials: true,
+  allowedHeaders: 'Content-Type, Accept, Authorization'
+});
+
+cambie a este cors
 
   const config = new DocumentBuilder()
   .setTitle('Public Goods Atlas')
