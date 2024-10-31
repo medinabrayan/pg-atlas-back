@@ -14,8 +14,6 @@ async function bootstrap() {
   allowedHeaders: 'Content-Type, Accept, Authorization'
 });
 
-cambie a este cors
-
   const config = new DocumentBuilder()
   .setTitle('Public Goods Atlas')
   .setDescription('Public Goods Atlas API description')
