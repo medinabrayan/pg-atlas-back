@@ -1,5 +1,12 @@
 import { ApiProperty } from '@nestjs/swagger'
 
+export class DonationDto {
+	donatorAddress: string
+	amount: number
+	attestationId: string
+	date: string
+}
+
 export class ProjectDto {
 	@ApiProperty({ example: '123Carbon' })
 	projectName: string
@@ -70,4 +77,7 @@ export class ProjectDto {
 
 	@ApiProperty({ example: 'UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k' })
 	wallet: string
+
+	@ApiProperty()
+	donations: DonationDto[]
 }

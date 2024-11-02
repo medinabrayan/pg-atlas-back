@@ -1,15 +1,15 @@
 import { Controller, Get, Put, Body, Query, Post } from '@nestjs/common'
 import { ProjectService } from './project.service'
 import { ApiBody, ApiOperation, ApiQuery, ApiResponse } from '@nestjs/swagger'
-import { ProjectDto } from './dto/project.dto'
+import { ProjectDto } from './dtos/project.dto'
 
 @Controller('projects')
 export class ProjectController {
 	constructor(private readonly projectService: ProjectService) {}
 
-	@Get('all')
-	getProject() {
-		return this.projectService.getProject()
+	@Get('getProjects')
+	getProjects() {
+		return this.projectService.getProjects()
 	}
 
 	@Put()

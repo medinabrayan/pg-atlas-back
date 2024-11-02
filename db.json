@@ -25,7 +25,8 @@
 		"source": "N/A",
 		"latitude": 52.3070849,
 		"longitude": 4.7517455,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "3IPK",
@@ -53,7 +54,8 @@
 		"source": "N/A",
 		"latitude": 48.1485965,
 		"longitude": 17.1077477,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "AAVE",
@@ -81,7 +83,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Accredible",
@@ -109,7 +112,8 @@
 		"source": "N/A",
 		"latitude": 37.3900264,
 		"longitude": -122.0812304,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Adhara",
@@ -137,7 +141,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Aetlas Protocol",
@@ -165,7 +170,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Agrello",
@@ -193,7 +199,8 @@
 		"source": "N/A",
 		"latitude": 59.43696079999999,
 		"longitude": 24.7535746,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Agrotoken",
@@ -221,7 +228,8 @@
 		"source": "N/A",
 		"latitude": -34.6036844,
 		"longitude": -58.3815591,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Akash",
@@ -249,7 +257,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Akoin",
@@ -277,7 +286,8 @@
 		"source": "N/A",
 		"latitude": 28.5383832,
 		"longitude": -81.3789269,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Akropolis",
@@ -305,7 +315,8 @@
 		"source": "N/A",
 		"latitude": 36.140751,
 		"longitude": -5.353585,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Algorand",
@@ -333,7 +344,8 @@
 		"source": "N/A",
 		"latitude": 42.3600825,
 		"longitude": -71.0588801,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ambrosus",
@@ -361,7 +373,8 @@
 		"source": "N/A",
 		"latitude": 53.3498053,
 		"longitude": -6.2603097,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Aragon",
@@ -389,7 +402,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Arbol",
@@ -417,7 +431,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Arbon",
@@ -445,7 +460,8 @@
 		"source": "N/A",
 		"latitude": 59.43696079999999,
 		"longitude": 24.7535746,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Archethic",
@@ -473,7 +489,8 @@
 		"source": "N/A",
 		"latitude": 49.5562966,
 		"longitude": 5.876568199999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Archethic / Uniris",
@@ -501,7 +518,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Argo",
@@ -529,7 +547,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Arianee",
@@ -557,7 +576,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Arweave",
@@ -585,7 +605,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "AsteriskDAO",
@@ -613,7 +634,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Astral",
@@ -641,7 +663,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Atem",
@@ -669,7 +692,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "AthenaDAO",
@@ -697,7 +721,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Atlantis",
@@ -725,7 +750,8 @@
 		"source": "N/A",
 		"latitude": 12.9715987,
 		"longitude": 77.5945627,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Avelia",
@@ -753,7 +779,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "BCDiploma",
@@ -781,7 +808,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Beach Token",
@@ -809,7 +837,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "BenBen",
@@ -837,7 +866,8 @@
 		"source": "N/A",
 		"latitude": 5.559284600000001,
 		"longitude": -0.1974306,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Big Green DAO",
@@ -865,7 +895,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Biotoken",
@@ -893,7 +924,8 @@
 		"source": "N/A",
 		"latitude": -34.6036844,
 		"longitude": -58.3815591,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bit Sika",
@@ -921,7 +953,8 @@
 		"source": "N/A",
 		"latitude": 5.559284600000001,
 		"longitude": -0.1974306,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "BitClout",
@@ -949,7 +982,8 @@
 		"source": "N/A",
 		"latitude": 34.6937249,
 		"longitude": 135.5022535,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "BitDegree",
@@ -977,7 +1011,8 @@
 		"source": "N/A",
 		"latitude": 54.6871555,
 		"longitude": 25.2796514,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bitfury Bermuda",
@@ -1005,7 +1040,8 @@
 		"source": "N/A",
 		"latitude": 32.3078,
 		"longitude": -64.7505,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bitfury Project in Georgia",
@@ -1033,7 +1069,8 @@
 		"source": "N/A",
 		"latitude": 52.3675734,
 		"longitude": 4.9041389,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bitminutes",
@@ -1061,7 +1098,8 @@
 		"source": "N/A",
 		"latitude": 33.3942655,
 		"longitude": -104.5230242,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bitpesa",
@@ -1089,7 +1127,8 @@
 		"source": "N/A",
 		"latitude": -1.2920659,
 		"longitude": 36.8219462,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Blockademia",
@@ -1117,7 +1156,8 @@
 		"source": "N/A",
 		"latitude": 45.8150108,
 		"longitude": 15.981919,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Blockcert",
@@ -1145,7 +1185,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "BlockID",
@@ -1173,7 +1214,8 @@
 		"source": "N/A",
 		"latitude": 37.0920222,
 		"longitude": -84.6041084,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Blockstack (formerly called OneName)",
@@ -1201,7 +1243,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Blockster",
@@ -1229,7 +1272,8 @@
 		"source": "N/A",
 		"latitude": 18.5204303,
 		"longitude": 73.8567437,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bloom",
@@ -1257,7 +1301,8 @@
 		"source": "N/A",
 		"latitude": 39.8735119,
 		"longitude": -75.67342169999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bloomeria",
@@ -1285,7 +1330,8 @@
 		"source": "N/A",
 		"latitude": 50.46493340000001,
 		"longitude": 4.864973099999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Blue Wallet",
@@ -1313,7 +1359,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Book.io",
@@ -1341,7 +1388,8 @@
 		"source": "N/A",
 		"latitude": 31.9685988,
 		"longitude": -99.9018131,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Bottlepay",
@@ -1369,7 +1417,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Brave (Basic Attention)",
@@ -1397,7 +1446,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "brightID",
@@ -1425,7 +1475,8 @@
 		"source": "N/A",
 		"latitude": 38.9071923,
 		"longitude": -77.0368707,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Btcpayserve",
@@ -1453,7 +1504,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cajutel",
@@ -1481,7 +1533,8 @@
 		"source": "N/A",
 		"latitude": 47.5595986,
 		"longitude": 7.5885761,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Callisto",
@@ -1509,7 +1562,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carb0n.fi",
@@ -1537,7 +1591,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbify",
@@ -1565,7 +1620,8 @@
 		"source": "N/A",
 		"latitude": 52.5167747,
 		"longitude": 6.083021899999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbon",
@@ -1593,7 +1649,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbon Collective",
@@ -1621,7 +1678,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbon Dollar X",
@@ -1649,7 +1707,8 @@
 		"source": "N/A",
 		"latitude": 5.2831456,
 		"longitude": 115.230825,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbon Dollar X",
@@ -1677,7 +1736,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbonbase",
@@ -1705,7 +1765,8 @@
 		"source": "N/A",
 		"latitude": 22.3193039,
 		"longitude": 114.1693611,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbonds",
@@ -1733,7 +1794,8 @@
 		"source": "N/A",
 		"latitude": 45.793516,
 		"longitude": 3.0794951,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CarbonFi",
@@ -1761,7 +1823,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbonland DAO",
@@ -1789,7 +1852,8 @@
 		"source": "N/A",
 		"latitude": 44.7971939,
 		"longitude": -106.9561791,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbonland trust",
@@ -1817,7 +1881,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Carbontribe",
@@ -1845,7 +1910,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cardano Spot",
@@ -1873,7 +1939,8 @@
 		"source": "N/A",
 		"latitude": 35.6764225,
 		"longitude": 139.650027,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CargoCoin",
@@ -1901,7 +1968,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cascadia Carbon",
@@ -1929,7 +1997,8 @@
 		"source": "N/A",
 		"latitude": 49.2827291,
 		"longitude": -123.1207375,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cashu",
@@ -1957,7 +2026,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Celo",
@@ -1985,7 +2055,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Centrifuge",
@@ -2013,7 +2084,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Changeblock",
@@ -2038,7 +2110,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Choco4Peace",
@@ -2063,7 +2136,8 @@
 		"source": "N/A",
 		"latitude": 45.5018869,
 		"longitude": -73.56739189999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Chooose",
@@ -2091,7 +2165,8 @@
 		"source": "N/A",
 		"latitude": 59.9167636,
 		"longitude": 10.6935171,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Chrono.tech",
@@ -2119,7 +2194,8 @@
 		"source": "N/A",
 		"latitude": -33.8688197,
 		"longitude": 151.2092955,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Circles",
@@ -2147,7 +2223,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CircularChain (Suez)",
@@ -2175,7 +2252,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Circularise",
@@ -2203,7 +2281,8 @@
 		"source": "N/A",
 		"latitude": 52.0207975,
 		"longitude": 4.4937836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Citaldoc",
@@ -2231,7 +2310,8 @@
 		"source": "N/A",
 		"latitude": -34.6036844,
 		"longitude": -58.3815591,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Civic",
@@ -2259,7 +2339,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Clarity DAO",
@@ -2287,7 +2368,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Climate Action Data Trust",
@@ -2315,7 +2397,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Climate Futures",
@@ -2343,7 +2426,8 @@
 		"source": "N/A",
 		"latitude": 25.7616798,
 		"longitude": -80.1917902,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Climatecoin",
@@ -2371,7 +2455,8 @@
 		"source": "N/A",
 		"latitude": 38.3457685,
 		"longitude": -0.4909444,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Climatetrade",
@@ -2399,7 +2484,8 @@
 		"source": "N/A",
 		"latitude": 39.4738338,
 		"longitude": -0.3756348,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CO2DAO",
@@ -2427,7 +2513,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CODEX",
@@ -2455,7 +2542,8 @@
 		"source": "N/A",
 		"latitude": 45.515232,
 		"longitude": -122.6783853,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Coffee Impact Collective",
@@ -2480,7 +2568,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Colony",
@@ -2508,7 +2597,8 @@
 		"source": "N/A",
 		"latitude": 19.3221698,
 		"longitude": -81.2408689,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Compound",
@@ -2536,7 +2626,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Compound Labs",
@@ -2564,7 +2655,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Coral Tribe",
@@ -2592,7 +2684,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Credly",
@@ -2620,7 +2713,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CryoDAO",
@@ -2648,7 +2742,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CrystalChain",
@@ -2676,7 +2771,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Curve",
@@ -2704,7 +2800,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cut.eco",
@@ -2732,7 +2829,8 @@
 		"source": "N/A",
 		"latitude": 47.10986399999999,
 		"longitude": 9.5247276,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "CyberFM",
@@ -2760,7 +2858,8 @@
 		"source": "N/A",
 		"latitude": 30.7999563,
 		"longitude": -81.68982609999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DAO IPCI",
@@ -2788,7 +2887,8 @@
 		"source": "N/A",
 		"latitude": 46.977594,
 		"longitude": 8.3374207,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DAOhaus",
@@ -2816,7 +2916,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DAOstack",
@@ -2844,7 +2945,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DAppNode",
@@ -2872,7 +2974,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Decarb.earth",
@@ -2900,7 +3003,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Decent",
@@ -2928,7 +3032,8 @@
 		"source": "N/A",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Decentralized Identity Foundation",
@@ -2956,7 +3061,8 @@
 		"source": "N/A",
 		"latitude": 53.6848162,
 		"longitude": -1.5038596,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Deeper Network",
@@ -2984,7 +3090,8 @@
 		"source": "N/A",
 		"latitude": 37.3541079,
 		"longitude": -121.9552356,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Democracia en Red",
@@ -3009,7 +3116,8 @@
 		"source": "N/A",
 		"latitude": -34.6036844,
 		"longitude": -58.3815591,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Democracy Earth",
@@ -3037,7 +3145,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Dent Wireless",
@@ -3065,7 +3174,8 @@
 		"source": "N/A",
 		"latitude": 22.3193039,
 		"longitude": 114.1693611,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Dether",
@@ -3093,7 +3203,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Devery",
@@ -3121,7 +3232,8 @@
 		"source": "N/A",
 		"latitude": -33.8688197,
 		"longitude": 151.2092955,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DFinity",
@@ -3149,7 +3261,8 @@
 		"source": "N/A",
 		"latitude": 47.3768866,
 		"longitude": 8.541694,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "dHealth",
@@ -3177,7 +3290,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Diatom",
@@ -3205,7 +3319,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Digiland",
@@ -3233,7 +3348,8 @@
 		"source": "N/A",
 		"latitude": 23.804093,
 		"longitude": 90.4152376,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DIGITAL WASTE BANK",
@@ -3261,7 +3377,8 @@
 		"source": "N/A",
 		"latitude": -27.3621374,
 		"longitude": -55.90087459999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Digitalsocial ID",
@@ -3289,7 +3406,8 @@
 		"source": "N/A",
 		"latitude": 50.1109221,
 		"longitude": 8.6821267,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Digitary",
@@ -3317,7 +3435,8 @@
 		"source": "N/A",
 		"latitude": 53.3498053,
 		"longitude": -6.2603097,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Dimitra Technologies",
@@ -3345,7 +3464,8 @@
 		"source": "N/A",
 		"latitude": 18.4334704,
 		"longitude": -64.63327819999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DirectEd Development",
@@ -3373,7 +3493,8 @@
 		"source": "N/A",
 		"latitude": 51.7520209,
 		"longitude": -1.2577263,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "District0x",
@@ -3401,7 +3522,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Diva protocol",
@@ -3429,7 +3551,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Diwala",
@@ -3457,7 +3580,8 @@
 		"source": "N/A",
 		"latitude": 59.9138688,
 		"longitude": 10.7522454,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Dock ",
@@ -3485,7 +3609,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DOVU",
@@ -3513,7 +3638,8 @@
 		"source": "N/A",
 		"latitude": 52.1306607,
 		"longitude": -3.7837117,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DowGo",
@@ -3541,7 +3667,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DTube",
@@ -3569,7 +3696,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "e Solidar / Web3",
@@ -3597,7 +3725,8 @@
 		"source": "N/A",
 		"latitude": 41.5454486,
 		"longitude": -8.426506999999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "E-Livestock Global",
@@ -3625,7 +3754,8 @@
 		"source": "N/A",
 		"latitude": 39.0839973,
 		"longitude": -77.1527578,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Earth Fund",
@@ -3653,7 +3783,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Earthbanc",
@@ -3681,7 +3812,8 @@
 		"source": "N/A",
 		"latitude": 59.32932349999999,
 		"longitude": 18.0685808,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Earthchain",
@@ -3709,7 +3841,8 @@
 		"source": "N/A",
 		"latitude": 53.8007554,
 		"longitude": -1.5490774,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Eco Coin",
@@ -3737,7 +3870,8 @@
 		"source": "N/A",
 		"latitude": 52.3675734,
 		"longitude": 4.9041389,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "EcoRegistry",
@@ -3765,7 +3899,8 @@
 		"source": "N/A",
 		"latitude": 6.2476376,
 		"longitude": -75.56581530000001,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ecoriseDAO",
@@ -3793,7 +3928,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "EcoSapiens",
@@ -3821,7 +3957,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Eden DAO",
@@ -3849,7 +3986,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "efforce",
@@ -3877,7 +4015,8 @@
 		"source": "N/A",
 		"latitude": 35.8992375,
 		"longitude": 14.5140996,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ejara",
@@ -3905,7 +4044,8 @@
 		"source": "N/A",
 		"latitude": 4.0510564,
 		"longitude": 9.7678687,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Electis",
@@ -3933,7 +4073,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Empowa",
@@ -3961,7 +4102,8 @@
 		"source": "N/A",
 		"latitude": -4.679574,
 		"longitude": 55.491977,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Encrypgen",
@@ -3989,7 +4131,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Endangered Tokens",
@@ -4017,7 +4160,8 @@
 		"source": "N/A",
 		"latitude": -36.1321655,
 		"longitude": -72.7937752,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Endaoment",
@@ -4045,7 +4189,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Energy Web Foundation",
@@ -4073,7 +4218,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "EthaVerse",
@@ -4101,7 +4247,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ethelo",
@@ -4129,7 +4276,8 @@
 		"source": "N/A",
 		"latitude": 49.2827291,
 		"longitude": -123.1207375,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Etherisc",
@@ -4157,7 +4305,8 @@
 		"source": "N/A",
 		"latitude": 48.1351253,
 		"longitude": 11.5819806,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ethic Hub",
@@ -4185,7 +4334,8 @@
 		"source": "N/A",
 		"latitude": 40.41672790000001,
 		"longitude": -3.7032905,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Evergreen Coin",
@@ -4213,7 +4363,8 @@
 		"source": "N/A",
 		"latitude": 41.18839,
 		"longitude": -80.97814679999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Factom",
@@ -4241,7 +4392,8 @@
 		"source": "N/A",
 		"latitude": 30.267153,
 		"longitude": -97.7430608,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Faircoin",
@@ -4269,7 +4421,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "FAME",
@@ -4297,7 +4450,8 @@
 		"source": "N/A",
 		"latitude": 48.422448,
 		"longitude": 1.5033478,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Fast agritech",
@@ -4325,7 +4479,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Fedimint",
@@ -4353,7 +4508,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Fiducia",
@@ -4381,7 +4537,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Filcoingreen CO2.storage",
@@ -4409,7 +4566,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Filecoin",
@@ -4437,7 +4595,8 @@
 		"source": "N/A",
 		"latitude": 37.4418834,
 		"longitude": -122.1430195,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "FilmChain",
@@ -4465,7 +4624,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "FintruX",
@@ -4493,7 +4653,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Firefly Shire",
@@ -4521,7 +4682,8 @@
 		"source": "N/A",
 		"latitude": 9.748916999999999,
 		"longitude": -83.753428,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Eachmile/Fishcoin",
@@ -4549,7 +4711,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "FlexFinTx",
@@ -4577,7 +4740,8 @@
 		"source": "N/A",
 		"latitude": -17.8262928,
 		"longitude": 31.0503723,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Flowcarbon",
@@ -4605,7 +4769,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Fund the Planet",
@@ -4633,7 +4798,8 @@
 		"source": "N/A",
 		"latitude": 48.1351253,
 		"longitude": 11.5819806,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Gainforest",
@@ -4661,7 +4827,8 @@
 		"source": "N/A",
 		"latitude": 47.3768866,
 		"longitude": 8.541694,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Galoy",
@@ -4689,7 +4856,8 @@
 		"source": "N/A",
 		"latitude": 37.3900264,
 		"longitude": -122.0812304,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GenoBank",
@@ -4717,7 +4885,8 @@
 		"source": "N/A",
 		"latitude": 37.5629917,
 		"longitude": -122.3255254,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GenomeFi",
@@ -4745,7 +4914,8 @@
 		"source": "N/A",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Geoweb",
@@ -4773,7 +4943,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Gigawatt global",
@@ -4801,7 +4972,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Gitcoin",
@@ -4829,7 +5001,8 @@
 		"source": "N/A",
 		"latitude": 40.0149856,
 		"longitude": -105.2705456,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Giveth",
@@ -4857,7 +5030,8 @@
 		"source": "N/A",
 		"latitude": 41.3873974,
 		"longitude": 2.168568,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GiveTrack",
@@ -4885,7 +5059,8 @@
 		"source": "N/A",
 		"latitude": 38.5781342,
 		"longitude": -121.4944209,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Giveus",
@@ -4913,7 +5088,8 @@
 		"source": "N/A",
 		"latitude": 43.6048462,
 		"longitude": 1.442848,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Glo Dollar",
@@ -4941,7 +5117,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GoKey",
@@ -4969,7 +5146,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Golem",
@@ -4997,7 +5175,8 @@
 		"source": "N/A",
 		"latitude": 52.2296756,
 		"longitude": 21.0122287,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Gooddollar",
@@ -5025,7 +5204,8 @@
 		"source": "N/A",
 		"latitude": 32.0852999,
 		"longitude": 34.78176759999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Grassroots Economics",
@@ -5053,7 +5233,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Green Coin (Gcoin)",
@@ -5078,7 +5259,8 @@
 		"source": "N/A",
 		"latitude": 34.5362184,
 		"longitude": -117.2927641,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Green World ",
@@ -5106,7 +5288,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Green World Campaign",
@@ -5134,7 +5317,8 @@
 		"source": "N/A",
 		"latitude": 34.0380585,
 		"longitude": -118.6923438,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Greenertokens",
@@ -5159,7 +5343,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Greeneum",
@@ -5187,7 +5372,8 @@
 		"source": "N/A",
 		"latitude": 32.0852999,
 		"longitude": 34.78176759999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GreenTrade Impact GmbH",
@@ -5215,7 +5401,8 @@
 		"source": "N/A",
 		"latitude": 52.4125287,
 		"longitude": 12.5316444,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Grid Singularity",
@@ -5243,7 +5430,8 @@
 		"source": "N/A",
 		"latitude": 48.20806959999999,
 		"longitude": 16.3713095,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Grid+",
@@ -5271,7 +5459,8 @@
 		"source": "N/A",
 		"latitude": 30.267153,
 		"longitude": -97.7430608,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Gridcoin",
@@ -5299,7 +5488,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GRNGrid",
@@ -5327,7 +5517,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GuildOne",
@@ -5355,7 +5546,8 @@
 		"source": "N/A",
 		"latitude": 51.04473309999999,
 		"longitude": -114.0718831,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "GYOC",
@@ -5383,7 +5575,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "HairDAO",
@@ -5411,7 +5604,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Haraka",
@@ -5439,7 +5633,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "HashingDNA",
@@ -5467,7 +5662,8 @@
 		"source": "N/A",
 		"latitude": 41.5467643,
 		"longitude": 2.1089255,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Health Wizz",
@@ -5495,7 +5691,8 @@
 		"source": "N/A",
 		"latitude": 38.88233400000001,
 		"longitude": -77.1710914,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hedera",
@@ -5523,7 +5720,8 @@
 		"source": "N/A",
 		"latitude": 31.9685988,
 		"longitude": -99.9018131,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Helios",
@@ -5548,7 +5746,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Helium",
@@ -5576,7 +5775,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "HIT Foundation",
@@ -5604,7 +5804,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Holo",
@@ -5632,7 +5833,8 @@
 		"source": "N/A",
 		"latitude": 51.5135872,
 		"longitude": 7.465298100000001,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "HOPR",
@@ -5660,7 +5862,8 @@
 		"source": "N/A",
 		"latitude": 47.3768866,
 		"longitude": 8.541694,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Horizen",
@@ -5688,7 +5891,8 @@
 		"source": "N/A",
 		"latitude": 38.9108325,
 		"longitude": -75.52766989999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Humaniq",
@@ -5716,7 +5920,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Humanode",
@@ -5744,7 +5949,8 @@
 		"source": "N/A",
 		"latitude": 41.6460978,
 		"longitude": 41.64049,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Humanscape",
@@ -5772,7 +5978,8 @@
 		"source": "N/A",
 		"latitude": 37.550263,
 		"longitude": 126.9970831,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "HydroCoin",
@@ -5800,7 +6007,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "IAMX",
@@ -5828,7 +6036,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "IFAD TRACE Blockchain",
@@ -5856,7 +6065,8 @@
 		"source": "N/A",
 		"latitude": 41.8967068,
 		"longitude": 12.4822025,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Immunify.Life",
@@ -5884,7 +6094,8 @@
 		"source": "N/A",
 		"latitude": 18.4334704,
 		"longitude": -64.63327819999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Impact Market",
@@ -5909,7 +6120,8 @@
 		"source": "N/A",
 		"latitude": 41.5454486,
 		"longitude": -8.426506999999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ImpactMarket",
@@ -5937,7 +6149,8 @@
 		"source": "N/A",
 		"latitude": 41.5454486,
 		"longitude": -8.426506999999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ImpactScope",
@@ -5965,7 +6178,8 @@
 		"source": "N/A",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "IMPT",
@@ -5993,7 +6207,8 @@
 		"source": "N/A",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Indorse",
@@ -6021,7 +6236,8 @@
 		"source": "N/A",
 		"latitude": 1.2811866,
 		"longitude": 103.8503404,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "IOHK",
@@ -6049,7 +6265,8 @@
 		"source": "N/A",
 		"latitude": 43.0759678,
 		"longitude": -107.2902839,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ivy Protocol",
@@ -6074,7 +6291,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ixo foundation",
@@ -6102,7 +6320,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Jasmine Energy",
@@ -6127,7 +6346,8 @@
 		"source": "N/A",
 		"latitude": 38.9071923,
 		"longitude": -77.0368707,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Just Carbon",
@@ -6155,7 +6375,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kakubi",
@@ -6183,7 +6404,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "KamPay",
@@ -6211,7 +6433,8 @@
 		"source": "N/A",
 		"latitude": 48.8460926,
 		"longitude": -95.762766,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Keeex",
@@ -6239,7 +6462,8 @@
 		"source": "N/A",
 		"latitude": 43.3025742,
 		"longitude": 5.369074299999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "KelVPN",
@@ -6267,7 +6491,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kilt",
@@ -6295,7 +6520,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kin",
@@ -6323,7 +6549,8 @@
 		"source": "N/A",
 		"latitude": 43.4516395,
 		"longitude": -80.4925337,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Klapcoin",
@@ -6351,7 +6578,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kleros",
@@ -6379,7 +6607,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "klimaDAO",
@@ -6407,7 +6636,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kolektivo",
@@ -6435,7 +6665,8 @@
 		"source": "N/A",
 		"latitude": 12.103852,
 		"longitude": -68.9323695,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Kyoto Blockchain",
@@ -6463,7 +6694,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Landano",
@@ -6491,7 +6723,8 @@
 		"source": "N/A",
 		"latitude": 51.9244201,
 		"longitude": 4.4777325,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "LandX",
@@ -6519,7 +6752,8 @@
 		"source": "N/A",
 		"latitude": 54.6871555,
 		"longitude": 25.2796514,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Lightency",
@@ -6547,7 +6781,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Liqwid Labs",
@@ -6572,7 +6807,8 @@
 		"source": "N/A",
 		"latitude": 44.7971939,
 		"longitude": -106.9561791,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "LO3 Energy",
@@ -6597,7 +6833,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Logion",
@@ -6625,7 +6862,8 @@
 		"source": "N/A",
 		"latitude": 49.815273,
 		"longitude": 6.129582999999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Longenesis",
@@ -6653,7 +6891,8 @@
 		"source": "N/A",
 		"latitude": 56.9676941,
 		"longitude": 24.1056221,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Lynx",
@@ -6681,7 +6920,8 @@
 		"source": "N/A",
 		"latitude": 32.0852999,
 		"longitude": 34.78176759999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Machankura",
@@ -6709,7 +6949,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Maidsafe",
@@ -6737,7 +6978,8 @@
 		"source": "N/A",
 		"latitude": 55.86167039999999,
 		"longitude": -4.2583345,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sky (Ex MakerDAO)",
@@ -6765,7 +7007,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "MediBloc",
@@ -6793,7 +7036,8 @@
 		"source": "N/A",
 		"latitude": 36.140751,
 		"longitude": -5.353585,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "MedicalChain",
@@ -6821,7 +7065,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "meHealthX",
@@ -6846,7 +7091,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Menthol protocol",
@@ -6874,7 +7120,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "MetaVerse Green Exchange",
@@ -6902,7 +7149,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Minds",
@@ -6930,7 +7178,8 @@
 		"source": "N/A",
 		"latitude": 41.1953739,
 		"longitude": -73.4378988,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Minespider",
@@ -6958,7 +7207,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "mintBlue",
@@ -6986,7 +7236,8 @@
 		"source": "N/A",
 		"latitude": 51.2199302,
 		"longitude": 4.414990299999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Moeda",
@@ -7014,7 +7265,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Molecule",
@@ -7042,7 +7294,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Monograma CryptoArt",
@@ -7070,7 +7323,8 @@
 		"source": "N/A",
 		"latitude": -34.6036844,
 		"longitude": -58.3815591,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Moss Earth MCO2",
@@ -7098,7 +7352,8 @@
 		"source": "N/A",
 		"latitude": -23.5557714,
 		"longitude": -46.6395571,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Muun",
@@ -7126,7 +7381,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Mybit",
@@ -7154,7 +7410,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "MyDID",
@@ -7182,7 +7439,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Myditek",
@@ -7210,7 +7468,8 @@
 		"source": "N/A",
 		"latitude": 46.227638,
 		"longitude": 2.213749,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Mysterium Network",
@@ -7238,7 +7497,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Namada",
@@ -7263,7 +7523,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Nat5",
@@ -7291,7 +7552,8 @@
 		"source": "N/A",
 		"latitude": 19.4326077,
 		"longitude": -99.133208,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Nebula Genomics",
@@ -7319,7 +7581,8 @@
 		"source": "N/A",
 		"latitude": 25.7616798,
 		"longitude": -80.1917902,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Nexo",
@@ -7347,7 +7610,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Nori",
@@ -7375,7 +7639,8 @@
 		"source": "N/A",
 		"latitude": 47.6061389,
 		"longitude": -122.3328481,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "NRverse",
@@ -7403,7 +7668,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "NYM",
@@ -7431,7 +7697,8 @@
 		"source": "N/A",
 		"latitude": 46.9899874,
 		"longitude": 6.9292732,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Oasa Earth",
@@ -7459,7 +7726,8 @@
 		"source": "N/A",
 		"latitude": 38.0162314,
 		"longitude": -8.6956768,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "OceanDrop",
@@ -7487,7 +7755,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Oceanus Foundation",
@@ -7515,7 +7784,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Odem",
@@ -7543,7 +7813,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ontology",
@@ -7571,7 +7842,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Open Earth",
@@ -7596,7 +7868,8 @@
 		"source": "N/A",
 		"latitude": 34.0549076,
 		"longitude": -118.242643,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Open Forest Protocol",
@@ -7624,7 +7897,8 @@
 		"source": "N/A",
 		"latitude": 46.5196535,
 		"longitude": 6.6322734,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Open Time Stamps",
@@ -7652,7 +7926,8 @@
 		"source": "N/A",
 		"latitude": 43.653226,
 		"longitude": -79.3831843,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Opus",
@@ -7680,7 +7955,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Orchid Labs",
@@ -7708,7 +7984,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Originalmy",
@@ -7736,7 +8013,8 @@
 		"source": "N/A",
 		"latitude": -23.5557714,
 		"longitude": -46.6395571,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "OriginTrail",
@@ -7764,7 +8042,8 @@
 		"source": "N/A",
 		"latitude": 46.0569465,
 		"longitude": 14.5057515,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ormex",
@@ -7792,7 +8071,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ownest",
@@ -7820,7 +8100,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pacifical",
@@ -7848,7 +8129,8 @@
 		"source": "N/A",
 		"latitude": 51.6410202,
 		"longitude": 4.8616901,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pancake Swap",
@@ -7876,7 +8158,8 @@
 		"source": "N/A",
 		"latitude": 22.3193039,
 		"longitude": 114.1693611,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Parity",
@@ -7904,7 +8187,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Patientory",
@@ -7932,7 +8216,8 @@
 		"source": "N/A",
 		"latitude": 33.7501275,
 		"longitude": -84.3885209,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Paxful",
@@ -7960,7 +8245,8 @@
 		"source": "N/A",
 		"latitude": 39.744655,
 		"longitude": -75.5483909,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pexapark",
@@ -7988,7 +8274,8 @@
 		"source": "N/A",
 		"latitude": 47.3982611,
 		"longitude": 8.448795,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Phease",
@@ -8016,7 +8303,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pinkcoin",
@@ -8044,7 +8332,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "PlanetWatch",
@@ -8072,7 +8361,8 @@
 		"source": "N/A",
 		"latitude": 46.2437479,
 		"longitude": 6.02513,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pleno",
@@ -8097,7 +8387,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Polkadot",
@@ -8125,7 +8416,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Porini Foundation",
@@ -8150,7 +8442,8 @@
 		"source": "N/A",
 		"latitude": 46.8064773,
 		"longitude": 7.161971899999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "PotLock",
@@ -8178,7 +8471,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "PowerGold",
@@ -8206,7 +8500,8 @@
 		"source": "N/A",
 		"latitude": 54.6871555,
 		"longitude": 25.2796514,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Powerledger",
@@ -8234,7 +8529,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Profila",
@@ -8262,7 +8558,8 @@
 		"source": "N/A",
 		"latitude": 47.05016819999999,
 		"longitude": 8.3093072,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Project-Ark",
@@ -8290,7 +8587,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Proof Space",
@@ -8318,7 +8616,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Prosoon",
@@ -8346,7 +8645,8 @@
 		"source": "N/A",
 		"latitude": 48.5734053,
 		"longitude": 7.752111299999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Provenance",
@@ -8371,7 +8671,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "PsyDAO",
@@ -8399,7 +8700,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "PubliQ",
@@ -8427,7 +8729,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pylon Network",
@@ -8455,7 +8758,8 @@
 		"source": "N/A",
 		"latitude": 40.4126493,
 		"longitude": 0.4243013,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Qitmeer",
@@ -8483,7 +8787,8 @@
 		"source": "N/A",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Rahat",
@@ -8511,7 +8816,8 @@
 		"source": "N/A",
 		"latitude": 27.7103145,
 		"longitude": 85.3221634,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "RAZ Finance",
@@ -8539,7 +8845,8 @@
 		"source": "N/A",
 		"latitude": 53.3498053,
 		"longitude": -6.2603097,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Rearden Digital Assets",
@@ -8567,7 +8874,8 @@
 		"source": "N/A",
 		"latitude": 31.9685988,
 		"longitude": -99.9018131,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "rebalance earth",
@@ -8592,7 +8900,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "REDD-Chain",
@@ -8620,7 +8929,8 @@
 		"source": "N/A",
 		"latitude": 39.9525839,
 		"longitude": -75.1652215,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Regen network",
@@ -8648,7 +8958,8 @@
 		"source": "N/A",
 		"latitude": 38.9108325,
 		"longitude": -75.52766989999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Remitano",
@@ -8676,7 +8987,8 @@
 		"source": "N/A",
 		"latitude": -4.621129799999999,
 		"longitude": 55.4522153,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Reneum",
@@ -8704,7 +9016,8 @@
 		"source": "N/A",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Republike",
@@ -8729,7 +9042,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ReSea Project",
@@ -8754,7 +9068,8 @@
 		"source": "N/A",
 		"latitude": 55.730275,
 		"longitude": 12.4248999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Reskue",
@@ -8782,7 +9097,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Restart Energy",
@@ -8810,7 +9126,8 @@
 		"source": "N/A",
 		"latitude": 45.7488716,
 		"longitude": 21.2086793,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Retreeb",
@@ -8838,7 +9155,8 @@
 		"source": "N/A",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Riddle&Code",
@@ -8866,7 +9184,8 @@
 		"source": "N/A",
 		"latitude": 48.20806959999999,
 		"longitude": 16.3713095,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "RightMesh",
@@ -8894,7 +9213,8 @@
 		"source": "N/A",
 		"latitude": 49.2193226,
 		"longitude": -122.598398,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "RoboSats",
@@ -8922,7 +9242,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Royal",
@@ -8950,7 +9271,8 @@
 		"source": "N/A",
 		"latitude": 30.267153,
 		"longitude": -97.7430608,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Safe Haven",
@@ -8978,7 +9300,8 @@
 		"source": "N/A",
 		"latitude": 50.8868997,
 		"longitude": 3.3494059,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SALT",
@@ -9006,7 +9329,8 @@
 		"source": "N/A",
 		"latitude": 39.7392358,
 		"longitude": -104.990251,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sapien",
@@ -9034,7 +9358,8 @@
 		"source": "N/A",
 		"latitude": 37.8715226,
 		"longitude": -122.273042,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Save Pakistan NFT",
@@ -9062,7 +9387,8 @@
 		"source": "N/A",
 		"latitude": 31.5203696,
 		"longitude": 74.35874729999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SeedTrace / Koa",
@@ -9087,7 +9413,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Selfkey",
@@ -9115,7 +9442,8 @@
 		"source": "N/A",
 		"latitude": -20.1608912,
 		"longitude": 57.5012222,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Senken",
@@ -9143,7 +9471,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Serto",
@@ -9171,7 +9500,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Shamba Network",
@@ -9199,7 +9529,8 @@
 		"source": "N/A",
 		"latitude": -1.2920659,
 		"longitude": 36.8219462,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Share & Charge",
@@ -9227,7 +9558,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ShareToken",
@@ -9255,7 +9587,8 @@
 		"source": "N/A",
 		"latitude": -37.8136276,
 		"longitude": 144.9630576,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Shivom",
@@ -9283,7 +9616,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sia (ou Skynet)",
@@ -9311,7 +9645,8 @@
 		"source": "N/A",
 		"latitude": 42.3600825,
 		"longitude": -71.0588801,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SIA Tech",
@@ -9339,7 +9674,8 @@
 		"source": "N/A",
 		"latitude": 42.3600825,
 		"longitude": -71.0588801,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sicpa - Covid pass",
@@ -9364,7 +9700,8 @@
 		"source": "N/A",
 		"latitude": 46.5196535,
 		"longitude": 6.6322734,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Silta",
@@ -9392,7 +9729,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Silvi Earth",
@@ -9420,7 +9758,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Simplex DNA",
@@ -9445,7 +9784,8 @@
 		"source": "N/A",
 		"latitude": 47.4988196,
 		"longitude": 8.723688899999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SingularityNet",
@@ -9473,7 +9813,8 @@
 		"source": "N/A",
 		"latitude": 52.3675734,
 		"longitude": 4.9041389,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Skillwallet",
@@ -9501,7 +9842,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SkyChain Global",
@@ -9529,7 +9871,8 @@
 		"source": "N/A",
 		"latitude": 55.755826,
 		"longitude": 37.6173,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Skynet",
@@ -9557,7 +9900,8 @@
 		"source": "N/A",
 		"latitude": 42.3600825,
 		"longitude": -71.0588801,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Smart Certificate",
@@ -9585,7 +9929,8 @@
 		"source": "N/A",
 		"latitude": 50.84770289999999,
 		"longitude": 4.357200100000001,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Smart Valor",
@@ -9613,7 +9958,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SmartCredit",
@@ -9641,7 +9987,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Solarfullcycle",
@@ -9669,7 +10016,8 @@
 		"source": "N/A",
 		"latitude": 6.9270786,
 		"longitude": 79.861243,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SolarMente",
@@ -9694,7 +10042,8 @@
 		"source": "N/A",
 		"latitude": 41.3873974,
 		"longitude": 2.168568,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Solid World DAO",
@@ -9722,7 +10071,8 @@
 		"source": "N/A",
 		"latitude": 58.37798299999999,
 		"longitude": 26.7290383,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SORGA",
@@ -9750,7 +10100,8 @@
 		"source": "N/A",
 		"latitude": 43.3025742,
 		"longitude": 5.369074299999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sovereign Nature Initiative",
@@ -9778,7 +10129,8 @@
 		"source": "N/A",
 		"latitude": 52.3675734,
 		"longitude": 4.9041389,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sovrin",
@@ -9806,7 +10158,8 @@
 		"source": "N/A",
 		"latitude": 40.2338438,
 		"longitude": -111.6585337,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SparkPoint",
@@ -9834,7 +10187,8 @@
 		"source": "N/A",
 		"latitude": 13.1390621,
 		"longitude": 123.7437995,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SPE",
@@ -9862,7 +10216,8 @@
 		"source": "N/A",
 		"latitude": 53.7937996,
 		"longitude": -1.7563583,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SpruceID",
@@ -9890,7 +10245,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Stacks / Hiro",
@@ -9918,7 +10274,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Steem",
@@ -9946,7 +10303,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Stellar",
@@ -9974,7 +10332,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Storj",
@@ -10002,7 +10361,8 @@
 		"source": "N/A",
 		"latitude": 33.7501275,
 		"longitude": -84.3885209,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SUKU",
@@ -10030,7 +10390,8 @@
 		"source": "N/A",
 		"latitude": 37.2358078,
 		"longitude": -121.9623751,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Suma",
@@ -10058,7 +10419,8 @@
 		"source": "N/A",
 		"latitude": 18.4334704,
 		"longitude": -64.63327819999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Summon Platform",
@@ -10086,7 +10448,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sun Exchange",
@@ -10114,7 +10477,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SunContract",
@@ -10142,7 +10506,8 @@
 		"source": "N/A",
 		"latitude": 46.0569465,
 		"longitude": 14.5057515,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sunrise Stake",
@@ -10170,7 +10535,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "SureRemit",
@@ -10198,7 +10564,8 @@
 		"source": "N/A",
 		"latitude": 8.9823792,
 		"longitude": -79.51986959999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Sweetbridge",
@@ -10226,7 +10593,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Synaps / Anima",
@@ -10251,7 +10619,8 @@
 		"source": "N/A",
 		"latitude": 45.764043,
 		"longitude": 4.835659,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Syntropy",
@@ -10279,7 +10648,8 @@
 		"source": "N/A",
 		"latitude": 36.140751,
 		"longitude": -5.353585,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Talao",
@@ -10307,7 +10677,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "TBD (Square inc)",
@@ -10332,7 +10703,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "TE-FOOD",
@@ -10360,7 +10732,8 @@
 		"source": "N/A",
 		"latitude": 47.497912,
 		"longitude": 19.040235,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Tecra",
@@ -10388,7 +10761,8 @@
 		"source": "N/A",
 		"latitude": 52.2296756,
 		"longitude": 21.0122287,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Tediji",
@@ -10416,7 +10790,8 @@
 		"source": "N/A",
 		"latitude": 45.811833,
 		"longitude": 4.79802,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Telcoin",
@@ -10444,7 +10819,8 @@
 		"source": "N/A",
 		"latitude": 1.352083,
 		"longitude": 103.819836,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Tentree/ veritree",
@@ -10472,7 +10848,8 @@
 		"source": "N/A",
 		"latitude": 49.2827291,
 		"longitude": -123.1207375,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Ternoa",
@@ -10500,7 +10877,8 @@
 		"source": "N/A",
 		"latitude": 43.4831519,
 		"longitude": -1.558626,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "TerraBioDAO",
@@ -10528,7 +10906,8 @@
 		"source": "N/A",
 		"latitude": 47.237829,
 		"longitude": 6.024053899999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Thallo",
@@ -10556,7 +10935,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "The Impact Wave",
@@ -10581,7 +10961,8 @@
 		"source": "N/A",
 		"latitude": 50.1109221,
 		"longitude": 8.6821267,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "The sun exchange",
@@ -10609,7 +10990,8 @@
 		"source": "N/A",
 		"latitude": -33.922087,
 		"longitude": 18.4231418,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Threefold",
@@ -10637,7 +11019,8 @@
 		"source": "N/A",
 		"latitude": 51.0499922,
 		"longitude": 3.7303853,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Token Engineering Commons (TEC)",
@@ -10665,7 +11048,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Tolam",
@@ -10693,7 +11077,8 @@
 		"source": "N/A",
 		"latitude": 38.6270025,
 		"longitude": -90.19940419999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Torum",
@@ -10721,7 +11106,8 @@
 		"source": "N/A",
 		"latitude": 4.308504,
 		"longitude": 101.1536528,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Toucan Protocol",
@@ -10749,7 +11135,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Tracee",
@@ -10777,7 +11164,8 @@
 		"source": "N/A",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "TrafiGuard (Bloom)",
@@ -10805,7 +11193,8 @@
 		"source": "N/A",
 		"latitude": 28.7030519,
 		"longitude": -81.3384011,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "TreeDefi",
@@ -10833,7 +11222,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Treejer",
@@ -10861,7 +11251,8 @@
 		"source": "N/A",
 		"latitude": 59.43696079999999,
 		"longitude": 24.7535746,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Trustlines Network",
@@ -10889,7 +11280,8 @@
 		"source": "N/A",
 		"latitude": 49.9928617,
 		"longitude": 8.2472526,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "UCASH",
@@ -10917,7 +11309,8 @@
 		"source": "N/A",
 		"latitude": 43.653226,
 		"longitude": -79.3831843,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "UPCO2",
@@ -10945,7 +11338,8 @@
 		"source": "N/A",
 		"latitude": 45.0522366,
 		"longitude": -82.4846115,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "UrbanChange",
@@ -10973,7 +11367,8 @@
 		"source": "N/A",
 		"latitude": 32.0852999,
 		"longitude": 34.78176759999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "UTU",
@@ -11001,7 +11396,8 @@
 		"source": "N/A",
 		"latitude": -1.2920659,
 		"longitude": 36.8219462,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ValleyDAO",
@@ -11029,7 +11425,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Veramo",
@@ -11057,7 +11454,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Veres",
@@ -11085,7 +11483,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Verity Tracking",
@@ -11113,7 +11512,8 @@
 		"source": "N/A",
 		"latitude": 39.7392358,
 		"longitude": -104.990251,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Vespene Energy",
@@ -11141,7 +11541,8 @@
 		"source": "N/A",
 		"latitude": 37.8715226,
 		"longitude": -122.273042,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Vezt",
@@ -11169,7 +11570,8 @@
 		"source": "N/A",
 		"latitude": 34.0549076,
 		"longitude": -118.242643,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Vigicard",
@@ -11197,7 +11599,8 @@
 		"source": "N/A",
 		"latitude": 43.6108535,
 		"longitude": 3.8761323,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Vinchain",
@@ -11225,7 +11628,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Visiblr",
@@ -11250,7 +11654,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "VitaDAO",
@@ -11278,7 +11683,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "W3ST",
@@ -11306,7 +11712,8 @@
 		"source": "N/A",
 		"latitude": 38.2691827,
 		"longitude": -0.7114243,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "WelShare Health",
@@ -11331,7 +11738,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "WheelCoin",
@@ -11359,7 +11767,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "WiHi",
@@ -11387,7 +11796,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Wild Meta Earth",
@@ -11412,7 +11822,8 @@
 		"source": "N/A",
 		"latitude": 48.822484,
 		"longitude": 2.288405,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Woleet",
@@ -11440,7 +11851,8 @@
 		"source": "N/A",
 		"latitude": 48.117266,
 		"longitude": -1.6777926,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "World Mobile",
@@ -11468,7 +11880,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "WorldCoin",
@@ -11496,7 +11909,8 @@
 		"source": "N/A",
 		"latitude": 53.3498053,
 		"longitude": -6.2603097,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Xcapit",
@@ -11524,7 +11938,8 @@
 		"source": "N/A",
 		"latitude": -31.42008329999999,
 		"longitude": -64.1887761,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Xend",
@@ -11552,7 +11967,8 @@
 		"source": "N/A",
 		"latitude": 6.5243793,
 		"longitude": 3.3792057,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Younergy Crypto",
@@ -11580,7 +11996,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Zerosix",
@@ -11608,7 +12025,8 @@
 		"source": "N/A",
 		"latitude": 29.7600771,
 		"longitude": -95.37011079999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Zkpass",
@@ -11636,7 +12054,8 @@
 		"source": "N/A",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Evercity",
@@ -11664,7 +12083,8 @@
 		"source": "N/A",
 		"latitude": 52.52000659999999,
 		"longitude": 13.404954,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hypercert",
@@ -11692,7 +12112,8 @@
 		"source": "N/A",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Giga (Unicef - ITU)",
@@ -11720,7 +12141,8 @@
 		"source": "N/A",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Paychant",
@@ -11748,7 +12170,8 @@
 		"source": "N/A",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Talent Protocol",
@@ -11776,7 +12199,8 @@
 		"source": "N/A",
 		"latitude": 38.7222524,
 		"longitude": -9.1393366,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Cred Protocol",
@@ -11804,7 +12228,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Symmetric Finance",
@@ -11832,7 +12257,8 @@
 		"source": "N/A",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hurupay",
@@ -11860,7 +12286,8 @@
 		"source": "N/A",
 		"latitude": 37.7749295,
 		"longitude": -122.4194155,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Farmsent",
@@ -11888,7 +12315,8 @@
 		"source": "JAFS - June 2024",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "T\u00f2r\u00f2Net",
@@ -11916,7 +12344,8 @@
 		"source": "N/A",
 		"latitude": 38.9108325,
 		"longitude": -75.52766989999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hive Online",
@@ -11944,7 +12373,8 @@
 		"source": "JAFS juillet",
 		"latitude": 55.6760968,
 		"longitude": 12.5683371,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Lak3",
@@ -11972,7 +12402,8 @@
 		"source": "JAFS juillet",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Vocdoni",
@@ -12000,7 +12431,8 @@
 		"source": "JAFS juillet",
 		"latitude": 41.3873974,
 		"longitude": 2.168568,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Neutral",
@@ -12028,7 +12460,8 @@
 		"source": "JAFS juillet",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Pwn",
@@ -12056,7 +12489,8 @@
 		"source": "JAFS juillet",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "DAOdrop",
@@ -12084,7 +12518,8 @@
 		"source": "JAFS juillet",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "AgriDex",
@@ -12112,7 +12547,8 @@
 		"source": "JAFS juillet",
 		"latitude": 51.5072178,
 		"longitude": -0.1275862,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Farecaster",
@@ -12140,7 +12576,8 @@
 		"source": "JAFS juillet",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Lens Protocol",
@@ -12168,7 +12605,8 @@
 		"source": "JAFS juillet",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "EstateX",
@@ -12196,7 +12634,8 @@
 		"source": "JAFS juillet",
 		"latitude": 52.3675734,
 		"longitude": 4.9041389,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Coorest",
@@ -12224,7 +12663,8 @@
 		"source": "JAFS juillet",
 		"latitude": 59.47013430000001,
 		"longitude": 25.4349642,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hyphen",
@@ -12252,7 +12692,8 @@
 		"source": "JAFS juillet",
 		"latitude": 47.5595986,
 		"longitude": 7.5885761,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Jur.io",
@@ -12280,7 +12721,8 @@
 		"source": "JAFS juillet",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Wakweli",
@@ -12308,7 +12750,8 @@
 		"source": "JAFS juillet",
 		"latitude": 46.2043907,
 		"longitude": 6.1431577,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Invarch",
@@ -12336,7 +12779,8 @@
 		"source": "JAFS juillet",
 		"latitude": 47.1661672,
 		"longitude": 8.5154946,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Hippocrat",
@@ -12364,7 +12808,8 @@
 		"source": "JAFS juillet",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Galeon",
@@ -12392,7 +12837,8 @@
 		"source": "JAFS juillet",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Dynex",
@@ -12420,7 +12866,8 @@
 		"source": "JAFS juillet",
 		"latitude": 32.0852999,
 		"longitude": 34.78176759999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Karma GAP",
@@ -12448,7 +12895,8 @@
 		"source": "JAFS juillet",
 		"latitude": 0,
 		"longitude": 0,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "ImpactCred",
@@ -12476,7 +12924,8 @@
 		"source": "JAFS septembre",
 		"latitude": 38.9071923,
 		"longitude": -77.0368707,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Moja",
@@ -12504,7 +12953,8 @@
 		"source": "JAFS septembre",
 		"latitude": 42.3736158,
 		"longitude": -71.10973349999999,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "AminoChain",
@@ -12532,7 +12982,8 @@
 		"source": "JAFS septembre",
 		"latitude": 40.7127753,
 		"longitude": -74.0059728,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Goods Id",
@@ -12560,7 +13011,8 @@
 		"source": "JAFS septembre",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Only Dust",
@@ -12588,7 +13040,8 @@
 		"source": "JAFS Octobre",
 		"latitude": 48.8575475,
 		"longitude": 2.3513765,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	},
 	{
 		"projectName": "Solareum",
@@ -12613,6 +13066,7 @@
 		"source": "JAFS Octobre",
 		"latitude": 25.2048493,
 		"longitude": 55.2707828,
-		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k"
+		"wallet": "UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k",
+		"donations": []
 	}
 ]
