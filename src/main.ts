@@ -5,8 +5,19 @@ import { AppModule } from './app.module'
 async function bootstrap() {
 	const app = await NestFactory.create(AppModule)
 
+	const config = new DocumentBuilder()
+		.setTitle('Public Goods Atlas')
+		.setDescription('Public Goods Atlas API description')
+		.setVersion('1.0')
+		.addTag('pgAtlas')
+		.build()
+
+	const documentFactory = () => SwaggerModule.createDocument(app, config)
+
+	SwaggerModule.setup('api', app, documentFactory)
+
 	app.enableCors({
-		origin: (origin, callback) => {
+		origin: (_origin: string, callback) => {
 			callback(null, true) // Permite cualquier dominio
 		},
 		methods: 'GET,HEAD,POST,PUT,DELETE,OPTIONS',
@@ -14,15 +25,6 @@ async function bootstrap() {
 		allowedHeaders: 'Content-Type, Accept, Authorization'
 	})
 
-	const config = new DocumentBuilder()
-		.setTitle('Public Goods Atlas')
-		.setDescription('Public Goods Atlas API description')
-		.setVersion('1.0')
-		.addTag('pga')
-		.build()
-	const documentFactory = () => SwaggerModule.createDocument(app, config)
-	SwaggerModule.setup('api', app, documentFactory)
-
-	await app.listen(process.env.PORT ?? 3000)
+	await app.listen(process.env.PORT || 3000)
 }
 bootstrap()
