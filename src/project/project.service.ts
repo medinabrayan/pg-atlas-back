@@ -32,9 +32,17 @@ export class ProjectService {
 	filterProjects(filters: Partial<Record<string, any>>): any[] {
 		const projects = this.readData()
 
-		// Filtramos cada proyecto usando todos los criterios
+		// Filtrar proyectos usando criterios dinámicos
 		return projects.filter(project =>
-			Object.keys(filters).every(key => filters[key] === project[key])
+			Object.keys(filters).every(key => {
+				if (key === 'category') {
+					// Verificar si `energyCategory.name` incluye el valor de `category`
+					return project.energyCategory?.name?.includes(filters[key])
+				} else {
+					// Filtro estándar para otros campos
+					return filters[key] === project[key]
+				}
+			})
 		)
 	}
 

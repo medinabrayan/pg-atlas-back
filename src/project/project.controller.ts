@@ -3,7 +3,7 @@ import { ProjectService } from './project.service'
 import { ApiBody, ApiOperation, ApiQuery, ApiResponse } from '@nestjs/swagger'
 import { ProjectDto } from './dto/project.dto'
 
-@Controller('project')
+@Controller('projects')
 export class ProjectController {
 	constructor(private readonly projectService: ProjectService) {}
 
@@ -21,10 +21,16 @@ export class ProjectController {
 	@ApiOperation({ summary: 'Filter projects' })
 	@ApiResponse({ status: 200, description: 'Returns filtered projects.' })
 	@ApiQuery({
-		name: 'city',
+		name: 'date',
 		required: false,
-		description: 'Filter by city',
-		example: 'Schiphol'
+		description: 'Filter by date',
+		example: '2024'
+	})
+	@ApiQuery({
+		name: 'region',
+		required: false,
+		description: 'Filter by region',
+		example: 'Africa'
 	})
 	@ApiQuery({
 		name: 'country',
@@ -33,16 +39,27 @@ export class ProjectController {
 		example: 'Netherlands'
 	})
 	@ApiQuery({
-		name: 'activityStatus',
+		name: 'organizationType',
 		required: false,
-		description: 'Filter by activity status',
-		example: 'Active'
+		description: 'Filter by organization type'
 	})
 	@ApiQuery({
 		name: 'blockchain',
 		required: false,
 		description: 'Filter by blockchain technology',
-		example: 'Algorand'
+		example: 'Ethereum'
+	})
+	@ApiQuery({
+		name: 'category',
+		required: false,
+		description: 'Filter by category',
+		example: 'Agriculture & Food'
+	})
+	@ApiQuery({
+		name: 'activityStatus',
+		required: false,
+		description: 'Filter by activity status',
+		example: 'Active'
 	})
 	@Get('filter')
 	filterProject(@Query() filters: Partial<Record<string, any>>) {
