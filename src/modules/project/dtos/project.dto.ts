@@ -5,6 +5,7 @@ export class DonationDto {
 	amount: number
 	attestationId: string
 	date: string
+	txHah: string
 }
 
 export class ProjectDto {
@@ -77,6 +78,9 @@ export class ProjectDto {
 
 	@ApiProperty({ example: 'UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k' })
 	wallet: string
+
+	@ApiProperty({ example: '0x0' })
+	attestationId: string
 
 	@ApiProperty()
 	donations: DonationDto[]
