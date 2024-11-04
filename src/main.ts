@@ -22,7 +22,7 @@ async function bootstrap() {
 		origin: (_origin: string, callback) => {
 			callback(null, true) // Permite cualquier dominio
 		},
-		methods: 'GET,HEAD,POST,PUT,DELETE,OPTIONS',
+		methods: 'GET,HEAD,POST,PUT,DELETE,OPTIONS,PATCH',
 		credentials: true,
 		allowedHeaders: 'Content-Type, Accept, Authorization'
 	})
