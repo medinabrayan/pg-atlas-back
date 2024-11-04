@@ -203,13 +203,13 @@ export class ProjectDto {
 	@ApiProperty({ example: 'N/A' })
 	source: string
 
-	@IsNumber()
-	@ApiProperty({ example: 52.3070849 })
-	latitude: number
+	@IsString()
+	@ApiProperty({ example: '52.3070849' })
+	latitude: string
 
-	@IsNumber()
-	@ApiProperty({ example: 4.7517455 })
-	longitude: number
+	@IsString()
+	@ApiProperty({ example: '4.7517455' })
+	longitude: string
 
 	@IsString()
 	@ApiProperty({ example: 'UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k' })
