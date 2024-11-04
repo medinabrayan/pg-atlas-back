@@ -90,18 +90,18 @@ export class ProjectService {
 	}
 
 	// DELETE
-	// async deleteProject(): Promise<void> {
-	// 	try {
-	// 		const projects = this.readDataFromPath(this.dbPath)
-	// 		projects.pop();
+	async deleteProject(): Promise<void> {
+		try {
+			const projects = this.readDataFromPath(this.dbPath)
+			projects.pop();
 
-	// 		this.writeData(this.dbPath, projects)
+			this.writeData(this.dbPath, projects)
 
-	// 		const projectsUrl: string = await this.ipfsService.storeObject(projects)
-	// 		this.writeData(this.apiPath, { projectsUrl })
-	// 	} catch (error) {
-	// 		console.error('❌', error)
-	// 		throw new InternalServerErrorException(error)
-	// 	}
-	// }
+			const projectsUrl: string = await this.ipfsService.storeObject(projects)
+			this.writeData(this.apiPath, { projectsUrl })
+		} catch (error) {
+			console.error('❌', error)
+			throw new InternalServerErrorException(error)
+		}
+	}
 }

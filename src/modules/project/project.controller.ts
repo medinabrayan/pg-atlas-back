@@ -1,6 +1,6 @@
-import { Controller, Get, Put, Body, Query, Post } from '@nestjs/common'
+import { Controller, Get, Put, Body, Query, Post, Delete } from '@nestjs/common'
 import { ProjectService } from './project.service'
-import { ApiBody, ApiOperation, ApiQuery, ApiResponse } from '@nestjs/swagger'
+import { ApiBody, ApiExcludeEndpoint, ApiOperation, ApiQuery, ApiResponse } from '@nestjs/swagger'
 import { ProjectDto } from './dtos/project.dto'
 
 @Controller('projects')
@@ -89,9 +89,10 @@ export class ProjectController {
 	}
 
 	//BORRAR ULTIMO PROYECTO
-	// @Delete('delete')
-	// deleteProject() {
-	// 	this.projectService.deleteProject()
-	// 	return { message: 'Project deleted successfully' }
-	// }
+	@ApiExcludeEndpoint()
+	@Delete('delete_lastproject')
+	deleteProject() {
+		this.projectService.deleteProject()
+		return { message: 'Project deleted successfully' }
+	}
 }
