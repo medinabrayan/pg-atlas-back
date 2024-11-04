@@ -1,4 +1,4 @@
-import { IsArray, IsOptional, ValidateNested } from 'class-validator';
+import { IsArray, IsOptional, IsString, ValidateNested } from 'class-validator';
 import { Type, Transform } from 'class-transformer';
 import { ApiProperty } from '@nestjs/swagger';
 import { DonationDto } from './donation.dto';
@@ -6,47 +6,60 @@ import { DonationDto } from './donation.dto';
 
 
 export class ProjectDto {
+
+	@IsString()
 	@ApiProperty({ example: '123Carbon' })
 	projectName: string
 
+	@IsString()
 	@ApiProperty({ example: 'Start-up' })
 	organizationType: string
 
+	@IsString()
 	@ApiProperty({ example: '2021' })
 	date: string
 
+	@IsString()
 	@ApiProperty({ example: 'Schiphol' })
 	city: string
 
+	@IsString()
 	@ApiProperty({ example: 'Netherlands' })
 	country: string
 
+	@IsString()
 	@ApiProperty({ example: 'Europe' })
 	region: string
 
+	@IsString()
 	@ApiProperty({
 		example:
 			'A blockchain-based carbon insetting platform for low multimodal transport'
 	})
 	description: string
 
+	@IsString()
 	@ApiProperty({ example: 'https://www.123carbon.com/' })
 	website: string
 
+	@IsString()
 	@ApiProperty({ example: 'Climate & Environment, Transport & Infrastructure' })
 	energyCategory: string
 
+	@IsString()
 	@ApiProperty({ example: 'Climate & carbon reduction' })
 	subCategory: string
 
+	@IsString()
 	@ApiProperty({ example: 'Algorand' })
 	blockchain: string
 
 	
-
+	@IsString()
 	@ApiProperty({ example: 'Active' })
 	activityStatus: string
 
+	@IsArray()
 	@ApiProperty({
 		example: [
 			'http://data.blockchainforgood.fr/wp-content/uploads/2024/06/algorand_400.png'
@@ -173,22 +186,27 @@ export class ProjectDto {
 	})
 	sdgGoal17: string
 	
-
+	@IsString()
 	@ApiProperty({ example: 'BFGDB00001' })
 	bfgid: string
 
+	@IsString()
 	@ApiProperty({ example: 'N/A' })
 	source: string
 
+	@IsString()
 	@ApiProperty({ example: 52.3070849 })
 	latitude: number
 
+	@IsString()
 	@ApiProperty({ example: 4.7517455 })
 	longitude: number
 
+	@IsString()
 	@ApiProperty({ example: 'UQCGePPGaWxjpVQqFtYnU4XkXYT7kGeNoIgUfon5lwl7i55k' })
 	wallet: string
 
+	@IsString()
 	@ApiProperty({ example: '0x0' })
 	attestationId: string
 
