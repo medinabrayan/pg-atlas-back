@@ -1,9 +1,12 @@
 import { ApiProperty } from '@nestjs/swagger';
+import { IsString, IsHexColor } from 'class-validator';
 
 export class EnergyCategoryDTO {
-  @ApiProperty({ description: 'Nombre de la categoria' })
+  @ApiProperty({ example: 'Climate & Environment', description: 'Nombre de la categoría de energía' })
+  @IsString()
   name: string;
 
-  @ApiProperty({ description: 'Color de la categoria' })
+  @ApiProperty({ example: '#44d9e1', description: 'Color hexadecimal de la categoría' })
+  @IsHexColor()
   color: string;
 }

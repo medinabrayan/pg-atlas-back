@@ -1,4 +1,4 @@
-import { IsArray, IsOptional, IsString, ValidateNested } from 'class-validator';
+import { IsArray, IsNumber, IsOptional, IsString, ValidateNested } from 'class-validator';
 import { Type, Transform } from 'class-transformer';
 import { ApiProperty } from '@nestjs/swagger';
 import { DonationDto } from './donation.dto';
@@ -43,13 +43,17 @@ export class ProjectDto {
 	@ApiProperty({ example: 'https://www.123carbon.com/' })
 	website: string
 
+	
+	@ApiProperty({
+		example: {
+		  name: 'Climate & Environment',
+		  color: '#44d9e1',
+		},
+		description: 'Categoría de energía asociada al proyecto',
+	  })
 	@Type(() => EnergyCategoryDTO)
-	@ApiProperty({ example: {
-		"name": "Climate & Environment",
-		"color": "#44d9e1"
-	  },
-	  description: 'Categoría de energía asociada al proyecto', })
-	energyCategory: EnergyCategoryDTO
+	@ValidateNested()
+	energyCategory: EnergyCategoryDTO;
 
 	@IsString()
 	@ApiProperty({ example: 'Climate & carbon reduction' })
@@ -199,11 +203,11 @@ export class ProjectDto {
 	@ApiProperty({ example: 'N/A' })
 	source: string
 
-	@IsString()
+	@IsNumber()
 	@ApiProperty({ example: 52.3070849 })
 	latitude: number
 
-	@IsString()
+	@IsNumber()
 	@ApiProperty({ example: 4.7517455 })
 	longitude: number
 
