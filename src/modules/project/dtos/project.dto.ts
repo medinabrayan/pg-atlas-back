@@ -42,9 +42,9 @@ export class ProjectDto {
 	@ApiProperty({ example: 'https://www.123carbon.com/' })
 	website: string
 
-	@IsString()
-	@ApiProperty({ example: 'Climate & Environment, Transport & Infrastructure' })
-	energyCategory: string
+	@IsArray()
+	@ApiProperty({ example: ['Climate & Environment, Transport & Infrastructure' ]})
+	energyCategory: string[]
 
 	@IsString()
 	@ApiProperty({ example: 'Climate & carbon reduction' })
