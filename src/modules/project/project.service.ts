@@ -70,6 +70,7 @@ export class ProjectService {
 			throw new InternalServerErrorException(error)
 		}
 	}
+	
 
 	// PUT
 
@@ -87,4 +88,20 @@ export class ProjectService {
 			throw new InternalServerErrorException(error)
 		}
 	}
+
+	// DELETE
+	// async deleteProject(): Promise<void> {
+	// 	try {
+	// 		const projects = this.readDataFromPath(this.dbPath)
+	// 		projects.pop();
+
+	// 		this.writeData(this.dbPath, projects)
+
+	// 		const projectsUrl: string = await this.ipfsService.storeObject(projects)
+	// 		this.writeData(this.apiPath, { projectsUrl })
+	// 	} catch (error) {
+	// 		console.error('❌', error)
+	// 		throw new InternalServerErrorException(error)
+	// 	}
+	// }
 }

@@ -1,12 +1,9 @@
-import { ApiProperty } from '@nestjs/swagger'
+import { IsArray, IsOptional, ValidateNested } from 'class-validator';
+import { Type, Transform } from 'class-transformer';
+import { ApiProperty } from '@nestjs/swagger';
+import { DonationDto } from './donation.dto';
 
-export class DonationDto {
-	donatorAddress: string
-	amount: number
-	attestationId: string
-	date: string
-	txHah: string
-}
+
 
 export class ProjectDto {
 	@ApiProperty({ example: '123Carbon' })
@@ -45,24 +42,137 @@ export class ProjectDto {
 	@ApiProperty({ example: 'Algorand' })
 	blockchain: string
 
+	
+
+	@ApiProperty({ example: 'Active' })
+	activityStatus: string
+
 	@ApiProperty({
 		example: [
 			'http://data.blockchainforgood.fr/wp-content/uploads/2024/06/algorand_400.png'
 		]
 	})
 	blockchainImages: string[]
-
-	@ApiProperty({ example: 'Active' })
-	activityStatus: string
-
+	
+	@IsOptional()
 	@ApiProperty({
 		example:
-			'https://report.blockchainforgood.fr/wp-content/uploads/2024/03/Sustainable_Development_Goal_13Climate.svg'
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-01-1024x1024.png'
+	})
+	sdgGoal1: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-02-1024x1024.png'
+	})
+	sdgGoal2: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-03-1024x1024.png'
+	})
+	sdgGoal3: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-04-1024x1024.png'
+	})
+	sdgGoal4: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-05-1024x1024.png'
+	})
+	sdgGoal5: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-06-1024x1024.png'
+	})
+	sdgGoal6: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-07-1024x1024.png'
 	})
 	sdgGoal7: string
 
-	@ApiProperty({ example: 'N/A' })
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-08-1024x1024.png'
+	})
+	sdgGoal8: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-09-1024x1024.png'
+	})
+	sdgGoal9: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-10-1024x1024.png'
+	})
+	sdgGoal10: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-11-1024x1024.png'
+	})
+	sdgGoal11: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-12-1024x1024.png'
+	})
+	sdgGoal12: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-13-1024x1024.png'
+	})
 	sdgGoal13: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-14-1024x1024.png'
+	})
+	sdgGoal14: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-15-1024x1024.png'
+	})
+	sdgGoal15: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-16-1024x1024.png'
+	})
+	sdgGoal16: string
+
+	@IsOptional()
+	@ApiProperty({
+		example:
+			'https://www.un.org/sustainabledevelopment/wp-content/uploads/2019/08/E-Goal-17-1024x1024.png'
+	})
+	sdgGoal17: string
+	
 
 	@ApiProperty({ example: 'BFGDB00001' })
 	bfgid: string
@@ -82,6 +192,17 @@ export class ProjectDto {
 	@ApiProperty({ example: '0x0' })
 	attestationId: string
 
-	@ApiProperty()
-	donations: DonationDto[]
+	@IsArray()
+	@ValidateNested({ each: true })
+	@Type(() => DonationDto) // Necesario para transformar correctamente cada objeto a DonationDto
+	@ApiProperty({
+		description: 'Lista de donaciones realizadas por el usuario. Por defecto es un array vacío.',
+		type: [DonationDto],
+		default: [], // Documenta el array vacío como valor por defecto en Swagger
+	})
+	@Transform(({ value }) => (value === undefined ? [] : value)) // Asigna [] si no hay valor
+  	donations: DonationDto[];
+	constructor() {
+		this.donations = []; // Asigna [] al campo donations por defecto
+	}
 }

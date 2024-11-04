@@ -87,4 +87,11 @@ export class ProjectController {
 		this.projectService.addProject(newProject)
 		return { message: 'Project added successfully' }
 	}
+
+	//BORRAR ULTIMO PROYECTO
+	// @Delete('delete')
+	// deleteProject() {
+	// 	this.projectService.deleteProject()
+	// 	return { message: 'Project deleted successfully' }
+	// }
 }
