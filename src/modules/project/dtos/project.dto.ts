@@ -2,6 +2,7 @@ import { IsArray, IsOptional, IsString, ValidateNested } from 'class-validator';
 import { Type, Transform } from 'class-transformer';
 import { ApiProperty } from '@nestjs/swagger';
 import { DonationDto } from './donation.dto';
+import { EnergyCategoryDTO } from './energy_category.dto';
 
 
 
@@ -42,9 +43,13 @@ export class ProjectDto {
 	@ApiProperty({ example: 'https://www.123carbon.com/' })
 	website: string
 
-	@IsArray()
-	@ApiProperty({ example: ['Climate & Environment, Transport & Infrastructure' ]})
-	energyCategory: string[]
+	@Type(() => EnergyCategoryDTO)
+	@ApiProperty({ example: {
+		"name": "Climate & Environment",
+		"color": "#44d9e1"
+	  },
+	  description: 'Categoría de energía asociada al proyecto', })
+	energyCategory: EnergyCategoryDTO
 
 	@IsString()
 	@ApiProperty({ example: 'Climate & carbon reduction' })
