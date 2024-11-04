@@ -1,7 +1,8 @@
-import { Controller, Get, Put, Body, Query, Post, Delete } from '@nestjs/common'
+import { Controller, Get, Put, Body, Query, Post, Delete, Patch } from '@nestjs/common'
 import { ProjectService } from './project.service'
 import { ApiBody, ApiExcludeEndpoint, ApiOperation, ApiQuery, ApiResponse } from '@nestjs/swagger'
 import { ProjectDto } from './dtos/project.dto'
+import { AddDonationDto } from './dtos/add_donation.dto'
 
 @Controller('projects')
 export class ProjectController {
@@ -12,10 +13,18 @@ export class ProjectController {
 		return this.projectService.getProjects()
 	}
 
-	@Put()
-	updateProject(@Body() updatedProject: any) {
-		this.projectService.updateProject(updatedProject)
-		return { message: 'Project updated successfully' }
+	// @Put()
+	// updateProject(@Body() updatedProject: any) {
+	// 	this.projectService.updateProject(updatedProject)
+	// 	return { message: 'Project updated successfully' }
+	// }
+	@ApiExcludeEndpoint()
+	@Patch('donation')
+	@ApiOperation({ summary: 'Agregar una donación de un proyecto' })
+	@ApiResponse({ status: 200, description: 'Proyecto actualizado correctamente' })
+	@ApiResponse({ status: 404, description: 'Proyecto no encontrado' })
+	async updateDonations(@Body() addDonationDto: AddDonationDto) {
+	  return this.projectService.addDonation(addDonationDto);
 	}
 
 	@ApiOperation({ summary: 'Filter projects' })
